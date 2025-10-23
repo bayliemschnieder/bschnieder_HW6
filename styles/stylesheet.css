@@ -37,6 +37,7 @@ td {
   text-align: left;
   padding: 20px;
   margin: 10px;
+  border: 2px solid #ff1f55;
 }
 #clubs {
   background-color: white;
@@ -64,6 +65,7 @@ td {
   text-align: left;
   padding: 20px;
   margin: 10px;
+  border: 2px solid #ff1f55;
 }
 #soda {
   background-color: white;
@@ -95,6 +97,7 @@ a:active {
   list-style-type: none;
   padding: 0;
   margin: 0;
+  margin-bottom: 30px;
 }
 
 .menu li {
