@@ -1,0 +1,62 @@
+body {
+  background-color: white;
+  color: black;
+}
+main {
+  background-color: white;
+  width: 80%;
+  margin: auto;
+}
+section {
+  padding: 20px;
+  padding-left: 15px;
+}
+h1 {
+  color: darkred;
+  padding: 20px;
+}
+
+#lego {
+  background-color: white;
+  text-align: left;
+  padding: 20px;
+  margin: 10px;
+  border: 2px solid black;
+}
+footer {
+  padding: 10px;
+}
+a:link {
+  color: darkblue;
+  text-decoration: none;
+}
+a:visited {
+  color: darkgreen;
+  text-decoration: none;
+}
+a:hover {
+  color: darkmagenta;
+  text-decoration: underline;
+}
+a:active {
+  color: darkmagenta;
+  text-decoration: underline;
+}
+.menuu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menuu li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.menuu a {
+  text-decoration: none;
+  color: black;
+  padding: 10px 15px;
+  background-color: #ff1f55;
+  border: 2px solid black;
+}
